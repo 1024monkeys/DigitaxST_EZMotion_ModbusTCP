@@ -5,7 +5,7 @@ st_ez.py - Main example program.
 stdrv.py - Drive module to import.
 
 st_ez.py requires:
---Python 2.7 (3 ok?)
+--Python 2.7 (3 ok?).
 --Pymodbus.
 
 Python available here:
@@ -15,11 +15,11 @@ Pymodbus available here:
 https://pypi.python.org/pypi/pymodbus
 Installs easily with 'pip install pymodbus' (once python is installed).
 
-Note that when using Windows, and an additional install may be required.  Try running the pymodbus installtion, and follow any directions displayed if the pymodbus installation fails.
+Note that when using Windows, and an additional install may be required.  Try running the pymodbus installation, and follow any directions displayed if the pymodbus installation fails.
 
 To install:
  Copy the source files wherever you want them.
- Open a command window (terminal) at that location and type: "python st_ez.py"
+ Open a command window (terminal) at that location and type: "python st_ez.py".  
  Profit.
  
  Press Ctrl-C to quit the program.
