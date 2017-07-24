@@ -24,4 +24,6 @@ To install:
  
  Press Ctrl-C to quit the program.
 
+I, nor my employer, are affiliated with Emerson Industrial.  They're probably nice folks though.
+
 -Chris Knudsen
